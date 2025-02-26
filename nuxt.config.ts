@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     "shadcn-nuxt",
     "motion-v/nuxt",
     "@nuxtjs/color-mode",
+    "@nuxtjs/robots",
   ],
   shadcn: {
     prefix: "",

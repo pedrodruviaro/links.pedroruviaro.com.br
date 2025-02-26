@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/robots": "5.2.4",
     "@vueuse/core": "^12.7.0",
     "lucide-vue-next": "^0.476.0",
     "motion-v": "0.11.0-beta.4",
