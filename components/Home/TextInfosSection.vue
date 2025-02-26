@@ -5,7 +5,7 @@ import { PinIcon } from "lucide-vue-next"
 <template>
   <section class="flex justify-center text-center flex-col gap-4">
     <p class="text-white/80 max-w-[32ch] mx-auto">
-      Enhenheiro de software em formação e desenvolvedor front-end
+      Engenheiro de software em formação e desenvolvedor front-end
     </p>
 
     <p class="flex items-center justify-center gap-2 text-white/80">
