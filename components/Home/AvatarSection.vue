@@ -3,10 +3,7 @@
 <template>
   <section class="flex justify-center">
     <Avatar size="lg">
-      <AvatarImage
-        src="https://avatars.githubusercontent.com/u/82953655?v=4"
-        alt="@pedrodruviaro"
-      />
+      <AvatarImage src="/avatar.webp" alt="@pedrodruviaro" />
     </Avatar>
   </section>
 </template>

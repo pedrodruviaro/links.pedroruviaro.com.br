@@ -3,6 +3,7 @@ import { links } from "~/constants/links"
 
 useSeoMeta({
   title: "Links",
+  description: "Conheça meus links e me acompanhe nas redes sociais.",
 })
 
 const handleNavigation = (href: string) => {
