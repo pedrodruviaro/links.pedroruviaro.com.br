@@ -4,12 +4,12 @@ const currentYear = computed(() => new Date().getFullYear())
 
 <template>
   <footer class="py-4">
-    <p class="text-sm text-center text-white/60">
-      {{ currentYear }} - Feito com carinho 💜
+    <p class="text-sm text-center text-white/50">
+      {{ currentYear }} -
       <NuxtLink
         to="https://pedroruviaro.com.br/"
         target="_blank"
-        class="underline"
+        class="hover:underline"
         >pedroruviaro.com.br</NuxtLink
       >
     </p>

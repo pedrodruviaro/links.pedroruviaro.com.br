@@ -4,9 +4,7 @@ import { PinIcon } from "lucide-vue-next"
 
 <template>
   <section class="flex justify-center text-center flex-col gap-4">
-    <p class="text-white/80 max-w-[32ch] mx-auto">
-      Engenheiro de software em formação e desenvolvedor front-end
-    </p>
+    <p class="text-white/80 max-w-[32ch] mx-auto">Dev Front-End</p>
 
     <p class="flex items-center justify-center gap-2 text-white/80">
       <PinIcon class="size-4" />
